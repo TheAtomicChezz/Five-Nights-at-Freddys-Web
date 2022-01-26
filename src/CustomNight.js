@@ -50,7 +50,7 @@ const CustomNight = ({state, setStart}) => {
                 animatronics = {Bonnie: 15, Freddy: 15, Chica: 15, Foxy: 15};
                 break;
             case "IMPOSSIBLE":
-                animatronics = {Bonnie: 20, Freddy: 20, Chica: 20, Foxy: 20};
+                animatronics = {Bonnie: 200, Freddy: 200, Chica: 200, Foxy: 200};
                 break;
             default: 
                 return;
